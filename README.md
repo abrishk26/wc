@@ -45,6 +45,3 @@ Run the compiled program and pipe in text via standard input. Use the `-l` flag 
   - Parsing flags for word or line counting.
   - Counting words or lines using the `count` function, which scans input and increments a counter based on the mode specified.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
